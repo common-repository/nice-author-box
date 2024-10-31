@@ -1,0 +1,36 @@
+/* 
+    Created on : Aug 27, 2021, 1:08:28 PM
+    Author     : pramodc <pramod@crawlcenter.com>
+*/
+.abx_mn{
+    display:flex;
+}
+.abx_cl{
+    display: flex;
+    flex-direction: column;
+    flex:0 0 100%;
+
+}
+.abx_rw{
+    display: flex;
+    flex-direction: row;
+}
+.abx_c33p{
+    flex-basis: 33%;
+}
+.abx_c50p{
+    flex-basis: 50%;
+}
+.abx_c100p{
+    flex-basis: 100%;
+}
+.abx_c25p{
+    flex-basis: 25%;
+}
+.abx_c75p{
+    flex-basis: 75%;
+}
+.abx_mtb1{
+    margin-top:1rem;
+    margin-bottom: 1rem;
+}
